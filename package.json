@@ -1,0 +1,22 @@
+{
+  "name": "@pranav-logicrays/is-pranav",
+  "version": "1.0.0",
+  "description": "Is the String Pranav?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranavLR/npm-package.git"
+  },
+  "keywords": [
+    "PranavLR"
+  ],
+  "author": "Pranav Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PranavLR/npm-package/issues"
+  },
+  "homepage": "https://github.com/PranavLR/npm-package#readme"
+}
